@@ -1,0 +1,4 @@
+3. catat dlm daftar hsl survey
+4. a) hjitung totoal pengguna per OS
+	b) hitung cari pengguna os tterbanyak
+	c) urutkan
